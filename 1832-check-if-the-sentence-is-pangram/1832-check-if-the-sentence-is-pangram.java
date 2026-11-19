@@ -1,6 +1,7 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-            boolean[] isseen= new boolean[26];
+
+         boolean[] isseen= new boolean[26];
            int c=0;
 
            for(int i=0;i<sentence.length();i++){
@@ -18,12 +19,11 @@ class Solution {
                }
            }
            if(c==26){
-             return true;
+            return true;
            }
            else{
-             return false;
+            return false;
            }
-
         
     }
 }
