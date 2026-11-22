@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VarunKumar7357/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0986-interval-list-intersections](https://github.com/VarunKumar7357/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/VarunKumar7357/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/VarunKumar7357/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/VarunKumar7357/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VarunKumar7357/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/VarunKumar7357/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/VarunKumar7357/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
