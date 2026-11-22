@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VarunKumar7357/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/VarunKumar7357/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/VarunKumar7357/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VarunKumar7357/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/VarunKumar7357/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VarunKumar7357/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/VarunKumar7357/Leetcode/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VarunKumar7357/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VarunKumar7357/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
