@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VarunKumar7357/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sweep Line
 |  |
 | ------- |
