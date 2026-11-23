@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VarunKumar7357/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VarunKumar7357/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/VarunKumar7357/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VarunKumar7357/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Math
 |  |
@@ -100,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Sweep Line
 |  |
