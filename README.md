@@ -93,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VarunKumar7357/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
 ## Sweep Line
 |  |
 | ------- |
@@ -178,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
