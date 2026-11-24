@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/VarunKumar7357/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/VarunKumar7357/Leetcode/tree/master/0468-validate-ip-address) |
 | [0567-permutation-in-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0567-permutation-in-string) |
@@ -162,4 +163,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/VarunKumar7357/Leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
