@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/VarunKumar7357/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/VarunKumar7357/Leetcode/tree/master/0468-validate-ip-address) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/VarunKumar7357/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/VarunKumar7357/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
