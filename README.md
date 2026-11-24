@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VarunKumar7357/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/VarunKumar7357/Leetcode/tree/master/0468-validate-ip-address) |
 | [0567-permutation-in-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/VarunKumar7357/Leetcode/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0791-custom-sort-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VarunKumar7357/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -196,4 +197,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/VarunKumar7357/Leetcode/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/VarunKumar7357/Leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/VarunKumar7357/Leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/VarunKumar7357/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
