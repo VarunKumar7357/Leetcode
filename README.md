@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/VarunKumar7357/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VarunKumar7357/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VarunKumar7357/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VarunKumar7357/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VarunKumar7357/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/VarunKumar7357/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1328-break-a-palindrome](https://github.com/VarunKumar7357/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VarunKumar7357/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VarunKumar7357/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
