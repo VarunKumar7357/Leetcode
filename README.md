@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VarunKumar7357/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/VarunKumar7357/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/VarunKumar7357/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VarunKumar7357/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VarunKumar7357/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |
