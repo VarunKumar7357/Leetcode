@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/VarunKumar7357/Leetcode/tree/master/0016-3sum-closest) |
+| [0046-permutations](https://github.com/VarunKumar7357/Leetcode/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/VarunKumar7357/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/VarunKumar7357/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/VarunKumar7357/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/VarunKumar7357/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
