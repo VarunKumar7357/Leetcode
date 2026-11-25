@@ -14,6 +14,9 @@ class Solution {
         }
 
         for(int i=start; i<nums.length;i++){
+              if (i > start && nums[i] == nums[i - 1]) {
+                continue;
+            }
             list.add(nums[i]);
             if(!res.contains(list)){
             res.add(new ArrayList<>(list));
