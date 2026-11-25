@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VarunKumar7357/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VarunKumar7357/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VarunKumar7357/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VarunKumar7357/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VarunKumar7357/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/VarunKumar7357/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/VarunKumar7357/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VarunKumar7357/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VarunKumar7357/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VarunKumar7357/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/VarunKumar7357/Leetcode/tree/master/0686-repeated-string-match) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
