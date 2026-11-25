@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/VarunKumar7357/Leetcode/tree/master/0016-3sum-closest) |
 | [0057-insert-interval](https://github.com/VarunKumar7357/Leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/VarunKumar7357/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VarunKumar7357/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VarunKumar7357/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VarunKumar7357/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/VarunKumar7357/Leetcode/tree/master/0231-power-of-two) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VarunKumar7357/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VarunKumar7357/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VarunKumar7357/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
