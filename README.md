@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VarunKumar7357/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VarunKumar7357/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VarunKumar7357/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VarunKumar7357/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VarunKumar7357/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2514-count-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2514-count-anagrams) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VarunKumar7357/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VarunKumar7357/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/VarunKumar7357/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VarunKumar7357/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -221,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/VarunKumar7357/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VarunKumar7357/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
