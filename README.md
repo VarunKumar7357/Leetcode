@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VarunKumar7357/Leetcode/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/VarunKumar7357/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/VarunKumar7357/Leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VarunKumar7357/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VarunKumar7357/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/VarunKumar7357/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
@@ -243,7 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VarunKumar7357/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/VarunKumar7357/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/VarunKumar7357/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/VarunKumar7357/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
