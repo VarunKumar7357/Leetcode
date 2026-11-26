@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/VarunKumar7357/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VarunKumar7357/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -272,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
