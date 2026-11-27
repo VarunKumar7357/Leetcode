@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/VarunKumar7357/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/VarunKumar7357/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
