@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VarunKumar7357/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VarunKumar7357/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0567-permutation-in-string) |
@@ -205,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/VarunKumar7357/Leetcode/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/VarunKumar7357/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/VarunKumar7357/Leetcode/tree/master/0509-fibonacci-number) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VarunKumar7357/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
