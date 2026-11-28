@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/VarunKumar7357/Leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/VarunKumar7357/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/VarunKumar7357/Leetcode/tree/master/0986-interval-list-intersections) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VarunKumar7357/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/VarunKumar7357/Leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarunKumar7357/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VarunKumar7357/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
